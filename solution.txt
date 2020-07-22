@@ -1,1 +1,214 @@
+  167  cd command-line-murder-mystery
+  168  cat instructions
+  169  ls
+  170  cd mystery
+  171  ls
+  172  cd crimescene
+  173  ls
+  174  open crimescene
+  175  grep CLUE crimescene
+  176  cd people
+  177  pwd
+  178  ls
+  179  cd people
+  180  grep Annable people
+  181  ls
+  182  open people
+  183  ls
+  184  cd people
+  185  cat people
+  186  cat people schedule
+  187  cat people| sort_cat people
+  188  cat people | sort cat people
+  189  cat people | sort
+  190  cat people | Ann
+  191  cat people | Annabel
+  192  pwd
+  193  cat peope | Annabel
+  194  git Annabel
+  195  git sort Annabel
+  196  ls
+  197  Cat people
+  198  cat people | grep Annabel
+  199  ls
+  200  cat streets | Haley Street, line 176
+  201  cat street | streets
+  202  ls
+  203  cd mystery
+  204  ls
+  205  ~cd
+  206  ls
+  207  pwd
+  208  ls
+  209  pwd
+  210  cd mystery
+  211  cd ..
+  212  ls
+  213  cd vehicles
+  214  pwd
+  215  cat vehicles
+  216  pwd
+  217  cat 
+  218  pwd
+  219  cd documents
+  220  ls
+  221  cd code_folder
+  222  ls
+  223  clear
+  224  pwd
+  225  ls
+  226  cd command-line-murder-mystery
+  227  ls
+  228  cd mystery
+  229  ls
+  230  cat people | grep Annabel
+  231  cat streets | grep Haley
+  232  cat streets |grep Haley_Street
+  233  cat streets
+  234  ls
+  235  cat streets | grep Haley_street
+  236  cat street | sort
+  237  cat streets | sort
+  238  cd streets
+  239  ls
+  240  cat  Haley_Street
+  241  cd interviews
+  242  cat 871877
+  243  ls
+  244  cd interviews
+  245  cd mystery
+  246  ~ cd
+  247  cd documents
+  248  pwd
+  249  ls
+  250  pwd
+  251  cd ..
+  252  ls
+  253  cd interviews
+  254  pwd
+  255  cat interviews | grep 871877
+  256  ls
+  257  cat interview-871877
+  258  cd ..
+  259  ls
+  260  cat people | grep Annabel
+  261  cd ..
+  262  ls
+  263  cd mystery
+  264  ls
+  265  cd streets
+  266  cat church
+  267  ls
+  268  cat Buckingham_Place
+  269  cat Interview
+  270  cd ..
+  271  ls
+  272  cd interviews
+  273  ls
+  274  cat interviw-699607
+  275  cd..
+  276  ls
+  277  cd..
+  278  cd ..
+  279  ls
+  280  cd streeet
+  281  cd street
+  282  cd streets
+  283  ls
+  284  cat Hart_Place
+  285  cd ..
+  286  ls
+  287  cd interviews
+  288  cat interview-47246024
+  289  cat interview-699607
+  290  cd ..
+  291  ls
+  292  cat vehicles
+  293  cat vehicals | grep -A 5 L337
+  294  cat vehicles | grep -A 5 L337
+  295  cd ..
+  296  ls
+  297  cd mystery
+  298  ls
+  299  cat joe germjuska
+  300  cat interviews
+  301  cd ..
+  302  ls
+  303  cd mystery
+  304  ls
+  305  cd interviews
+  306  cat joe germuska
+  307  ls
+  308  cd ..
+  309  ls
+  310  cat people | grep Joe
+  311  cat eople | grep jeremy
+  312  cat pople | grep jeremy
+  313  ls
+  314  cat people | grep jeremy
+  315  ls
+  316  cd streets
+  317  ls
+  318  cat Plainfield_Street
+  319  cd ..
+  320  ls
+  321  cd interviews
+  322  ls
+  323  cat interview-29741223
+  324  cd ..
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd mystery
+  329  ls
+  330  cat people | grep Jeremy
+  331  cd ..
+  332  ls
+  333  cd mystery
+  334  ls
+  335  cd interviews
+  336  ls
+  337  cd .. 
+  338  ls
+  339  cd ..
+  340  ls
+  341  cat hint8
+  342  cd.. 
+  343  ls
+  344  cd mystery
+  345  ls
+  346  cd memberships
+  347  ls
+  348  cat Delt_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Jeremy Bowers"
+  349  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Jeremy Bowers"
+  350  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska""\ncat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska"\n\ncd ..\ncd ..\n\n"
+  351  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska"\ncat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska"\n\ncd ..\ncd ..\n\n"\n'\n"
+  352  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska" 
+  353  pwd
+  354  cd ..
+  355  ls
+  356  cd mystery
+  357  cd command-line-murder-mystery
+  358  ls
+  359  cd mystery
+  360  ls
+  361  cd memberships
+  362  ls
+  363  cat Delta_SkyMiles AAA Terminal_City_Library Museum_of_Bash_HIstory | grep "Joe Germuska" 
+  364  cd ..
+  365  ls
+  366  cd ..
+  367  touch solution.txt
+  368  ls
+Jeremy Bowers
+
+
+
+
+
+
+
+
+
+
 Jeremy Bowers
